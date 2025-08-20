@@ -1,0 +1,16 @@
+[
+ {
+ "id": 1,
+ "titulo": "Mona Lisa",
+ "descricao": "Pintada por Leonardo da Vinci, é uma das obras maisicônicas do mundo, conhecida pelo sorriso enigmático da personagem.",
+ "imagem":
+"https://ceugaleria.com.br/galeria/wp-content/uploads/2024/03/monalisa.webp"
+ },
+ {
+ "id": 2,
+ "titulo": "A Noite Estrelada",
+ "descricao": "Obra de Vincent van Gogh retratando uma paisagemnoturna com redemoinhos e uma vila sob um céu turbulento.",
+ "imagem":
+"https://www.papeiseparede.com.br/4692-thickbox_default/papel-de-parede-a-noite-estrelada-por-vincent-van-gogh.jpg.webp"
+ }
+]
